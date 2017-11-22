@@ -7,6 +7,7 @@ namespace gitconsoleapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("it's working");
         }
     }
 }
