@@ -9,6 +9,7 @@ namespace gitconsoleapp
             Console.WriteLine("Hello World!");
             Console.WriteLine("it's working");
             Console.WriteLine("from visual studio");
+            Console.WriteLine(true);
         }
     }
 }
